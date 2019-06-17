@@ -1,0 +1,7 @@
+D:\wwwroot\DNN_frontdata\bin\aj_quizmod_v1.dll
+D:\wwwroot\DNN_frontdata\bin\aj_quizmod_v1.pdb
+D:\wwwroot\DNN_frontdata\bin\aj_quizmod_v1.xml
+D:\wwwroot\DNN_frontdata\DesktopModules\aj_quizmod_v1\obj\Release\aj_quizmod_v1.vbproj.CoreCompileInputs.cache
+D:\wwwroot\DNN_frontdata\DesktopModules\aj_quizmod_v1\obj\Release\aj_quizmod_v1.dll
+D:\wwwroot\DNN_frontdata\DesktopModules\aj_quizmod_v1\obj\Release\aj_quizmod_v1.xml
+D:\wwwroot\DNN_frontdata\DesktopModules\aj_quizmod_v1\obj\Release\aj_quizmod_v1.pdb
